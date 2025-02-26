@@ -1,0 +1,1 @@
+select count(Cust_id) from cust_info ci 
