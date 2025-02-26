@@ -30,7 +30,7 @@ Step 3- Tracking customer behavior primarily involves enquiring whether they ret
 
 
 
-Step 4- Identifying the most preferred shipment type is necessary for a business to thrive. It helps businesses invest more money into the most preferred shipment type for customers to improve customer satisfaction and depend less on the least preferred shipment type, thus saving company resources. Since customer Information and Shipping Information are available in two different tables, an advanced window function with join needed to be executed- 
+Step 4- Identifying the most preferred shipment type is necessary for a business to thrive. It helps businesses invest more money into the most preferred shipment type, to improve customer satisfaction and depend less on the least preferred shipment type, thus saving company resources. Since customer Information and Shipping Information are available in two different tables, an advanced window function with join needed to be executed- 
 
 ![Image](https://github.com/user-attachments/assets/59803cfe-02bb-44b5-8306-8d8c61471aa5)
 
